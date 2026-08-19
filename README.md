@@ -1,2 +1,3 @@
-# industrial-equipment-catalog
-Editable industrial automation equipment catalog
+# Industrial Equipment Catalog
+
+Static GitHub Pages export of the editable Service-Bay Ledger catalog.
